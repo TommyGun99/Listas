@@ -33,7 +33,7 @@ https://lb.nostv.pt.meo.pt.tv.vodafone.pt.meo-cdn.com/hls/sporttvmais.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="Porto Canal HD" tvg-name="PortoCanal" tvg-logo="" group-title="Generalistas/News",PortoCanal
 https://lb.nostv.pt.meo.pt.tv.vodafone.pt.meo-cdn.com/hls/portocanal.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="SPORT TV1 HD" tvg-name="SportTV 1" tvg-logo="http://tiny.cc/sporttv1png" group-title="Desporto",SportTV 1
+#EXTINF:-1 tvg-chno="21" tvg-id="SPORT TV1 HD" tvg-name="SPORT TV1 HD" tvg-logo="http://tiny.cc/sporttv1png" group-title="Desporto",SportTV 1
 https://lb.nostv.pt.meo.pt.tv.vodafone.pt.meo-cdn.com/hls/lowlatency/sporttv1.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="SPORT TV2 HD" tvg-name="SportTV 2" tvg-logo="http://tiny.cc/sporttv2png" group-title="Desporto",SportTV 2
 https://lb.nostv.pt.meo.pt.tv.vodafone.pt.meo-cdn.com/hls/lowlatency/sporttv2.m3u8
